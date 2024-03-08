@@ -1,5 +1,5 @@
-# -Akarigo-Ltd
-Certified Odoo Partner | Official Odoo partner in UK - Akarigo
-Akarigo is the Odoo Official Partner label dedicated to companies that offer quality services on Odoo. Schedule a Call Today with Certified Odoo Partner!
+Odoo Integration | Odoo Integration Experts in UK - Akarigo
 
-https://akarigo.com/official-odoo-partner-in-uk/
+Akarigo is offering Odoo integration, development, customization, and consultation services in the UK. We help you integrate Odoo ERP with any software
+
+https://akarigo.com/odoo-integration-experts/
